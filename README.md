@@ -9,6 +9,7 @@ We are going to create a Marketplace program that will contain inventory inform
 # DESIGN PATTERNS
 
 1.Singleton.
+
 2.Iterator
 
 # Singleton : 
@@ -22,7 +23,7 @@ In the Java and.Net programming environments, the iterator pattern is a highly c
  
     2. Type command Javac User.java and press enter
   
-    3. Next type java User (user is the main class
+    3. Next type java User (user is the main class)
   
     4. now enter the file name Sample Input File.csv
   
