@@ -1,0 +1,4 @@
+Please correct the quantities!!!
+
+ Item & quantity that exceeds available quantity in inventory :
+ [Oil : 3]
