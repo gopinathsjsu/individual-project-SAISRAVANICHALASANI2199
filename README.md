@@ -17,6 +17,12 @@ This design pattern is classified as a creational pattern since it gives one of 
 The Factory Method design pattern is a creational design pattern that acts as an interface for producing objects in a superclass while allowing subclasses to choose the type of objects created. The factory design pattern is a key design pattern that is heavily utilized not just in JDK but also in many Open Source frameworks like as Spring, Struts, and Apache. The Factory Design model is predicated on the object-oriented concept of encapsulation. The Factory method produces various objects from a factory, and it encapsulates the creation code. So, rather of having object creation code on the client side, we wrap it in the Java Factory function.
 
 # STEPS TO RUN THE APPLICATION
+ 1.First open the file with visual studio code
+ 2. Type command Javac User.java and press enter
+ 3. Next type java User (user is the main class)
+ 4. now enter the file name Sample Input File.csv
+ 5.Now you can see the application which has been executed
+ 
 # CLASS DIAGRAM
 # SCREENSHOTS OF TEST CASES
    
