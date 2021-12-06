@@ -32,5 +32,9 @@ In the Java and.Net programming environments, the iterator pattern is a highly c
 
    TEST CASE 3 - ![Screenshot (68)](https://user-images.githubusercontent.com/91631318/144815684-aa59e26e-33cb-4f30-9e08-a9525392668a.png)
                  ![Screenshot (69)](https://user-images.githubusercontent.com/91631318/144815694-0a07b4b6-4d8d-4f51-8414-b6b183ef55ac.png)
+                 ![Screenshot (70)](https://user-images.githubusercontent.com/91631318/144822275-ff2fd45e-c5b6-49f4-8a47-2375aedee0f2.png)
+                 ![Screenshot (71)](https://user-images.githubusercontent.com/91631318/144822295-eaf193c2-4289-42bd-b23c-95965e8965ae.png)
+
+
 
 
