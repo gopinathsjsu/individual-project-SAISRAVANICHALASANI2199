@@ -1,6 +1,7 @@
 # cmpe 202  individual-project
-Name - sai sravani chalasani.
-SJSU id - 015911467
+Name : sai sravani chalasani.
+
+SJSU id : 015911467
 
 # PROBLEM STATEMENT
 We are going to create a Marketplace program that will contain inventory information that enables customer to buy things by creating products. There are only a few objects left in the inventory. The number of things bought from each genre will be limited. If an item meets all of the criteria, the entire quantity due will be assessed, and payment information will be utilized to complete the transaction.
@@ -17,11 +18,15 @@ This design pattern is classified as a creational pattern since it gives one of 
 In the Java and.Net programming environments, the iterator pattern is a highly common design pattern. This technique is used to gain a way to sequentially access the elements of a collection object without having to know its underlying form.The iterator pattern is a type of behavioral pattern.The Iterator abstraction is at the heart of a new technology known as "generic programming." This technique aims to clearly distinguish between the terms "algorithm" and "data structure." The goal is to encourage component-based development, increase productivity, and simplify configuration management.
 
 # STEPS TO RUN THE APPLICATION
- 1.First open the file with visual studio code 
- 2. Type command Javac User.java and press enter
- 3. Next type java User (user is the main class)
- 4. now enter the file name Sample Input File.csv
- 5.Now you can see the application which has been executed 
+    1.First open the file with visual studio code
+ 
+    2. Type command Javac User.java and press enter
+  
+    3. Next type java User (user is the main class
+  
+    4. now enter the file name Sample Input File.csv
+  
+    5.Now you can see the application which has been executed 
  
 # CLASS DIAGRAM
 <img width="1105" alt="class diagram" src="https://user-images.githubusercontent.com/91631318/144832667-d94c0844-505f-46aa-ba92-063bac57ab32.png">
