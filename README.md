@@ -19,8 +19,7 @@ The Factory Method design pattern is a creational design pattern that acts as an
 # STEPS TO RUN THE APPLICATION
 # CLASS DIAGRAM
 # SCREENSHOTS OF TEST CASES
-   TEST CASE1 - ![Screenshot (62)](https://user-images.githubusercontent.com/91631318/144813601-e751287e-d75f-4473-83f5-a02da3c5fda0.png)
-
-
-   TEST CASE2. - <img width="1440" alt="Screen Shot 2021-12-05 at 11 18 09 PM" src="https://user-images.githubusercontent.com/91631318/144805975-c6bda98e-10de-4bde-9334-191d1868b3db.png">
-   TEST CASE3.
+   
+   TEST CASE 1 - ![Screenshot (62)](https://user-images.githubusercontent.com/91631318/144813989-f7a1c4cc-8c54-4765-8c40-37975116e69a.png)
+   TEST CASE2. -![Screenshot (63)](https://user-images.githubusercontent.com/91631318/144813995-c14c0484-e0ad-4cc7-aa78-2458465742ea.png)
+   TEST CASE3.![Screenshot (64)](https://user-images.githubusercontent.com/91631318/144814012-e72a23c6-513c-4a18-950f-daa81a191bd5.png)
