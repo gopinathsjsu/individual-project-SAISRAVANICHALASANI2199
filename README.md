@@ -24,6 +24,8 @@ In the Java and.Net programming environments, the iterator pattern is a highly c
  5.Now you can see the application which has been executed 
  
 # CLASS DIAGRAM
+<img width="1105" alt="class diagram" src="https://user-images.githubusercontent.com/91631318/144832667-d94c0844-505f-46aa-ba92-063bac57ab32.png">
+
 # SCREENSHOTS OF TEST CASES
    
    TEST CASE 1 - ![Screenshot (66)](https://user-images.githubusercontent.com/91631318/144815663-f55afef5-0ddc-435e-9e94-77c1fc055672.png)
